@@ -5,7 +5,7 @@
 
 ### Hello! I'm Đức Khôi a Full Stack Developer from VietNam.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://khoinmdit99.github.io
 
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -49,4 +49,4 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-⭐️ From [@BRdhanani](https://github.com/BRdhanani)
+⭐️ From [@khoinmdIT99](https://github.com/khoinmdIT99)
